@@ -1,5 +1,5 @@
 
-public class Solution2 {
+public class BinaryGap2 {
 	public int solution(int N) {
 		
 		//test

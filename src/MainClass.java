@@ -10,12 +10,12 @@ public class MainClass {
 		// TODO Auto-generated method stub
 
 		//Binary Gap
-		 Solution2 tempSolution = new Solution2();
+		 BinaryGap2 tempSolution = new BinaryGap2();
 		 int num = tempSolution.solution(51712);
 		 System.out.println(Integer.toString(num));
 		 
 		 //Cyclic Rotate
-		 CyclicRotate cyclicRotate = new CyclicRotate();
+		 CyclicRotation cyclicRotate = new CyclicRotation();
 		 
 		 int[] A = {3,5,2,5};
 		 int K = 3;
