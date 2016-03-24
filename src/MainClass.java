@@ -17,7 +17,7 @@ public class MainClass {
 		 //Cyclic Rotate
 		 CyclicRotation cyclicRotate = new CyclicRotation();
 		 
-		 int[] A = {3,5,2,5};
+		 int[] A = {3, 8, 9, 7, 6};
 		 int K = 3;
 		 int[] rotatedArr = cyclicRotate.solution(A, K);
 		 System.out.println("Rotated array: " + Arrays.toString(rotatedArr) + " , # of Rotations: "+ Integer.toString(K));
